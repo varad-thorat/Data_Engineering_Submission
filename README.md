@@ -1,4 +1,4 @@
-# Glynac Data Engineer - Family Tree Challenge
+# Data Engineer - Family Tree Challenge
 
 A Python solution to model and query King Arthur's family tree.
 
